@@ -3,7 +3,7 @@
 ! Title:StarLord's Custom Filter List
 ! Last modified:
 ! Expires: 4 days (update frequency)
-! Homepage:https://github.com/quiksilvr476/adblockplus/blob/master/starlords_custom_filter_list.txt
+! Homepage:https://raw.githubusercontent.com/quiksilvr476/adblockplus/master/starlords_custom_filter_list.txt
 !
 ! Honey Coupon Extension
 @@||joinhoney.com*$document
