@@ -1,0 +1,47 @@
+[Adblock Plus 2.0]
+! Version:1.0
+! Title:StarLord's Custom Filter List
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:https://github.com/quiksilvr476/adblockplus
+!
+! Honey Coupon Extension
+@@||joinhoney.com*$document
+@@||joinhoney.com*$elemhide
+@@||joinhoney.com^*
+@@||joinhoney.com^*$~third-party
+@@||honey.io^*
+! Misc
+@@||www.canva.com/$document
+@@||play.google.com/$document
+@@||192.168.1.100:8989/$document
+@@||www.thingiverse.com/$document
+@@||support.wyzecam.com/$document
+@@||googlefication.com/$document
+@@||cart.mspy.com/$document
+@@||checkout2.mspy.com/$document
+@@||www.locast.org/$document
+@@||google.com/$document
+@@||cloudhq.net/$document
+@@||www.nerdwallet.com/$document
+@@||www.groupon.com/$document
+@@||www.chase.com/$document
+@@||secure05b.chase.com/$document
+@@||wyze.com/$document
+@@|https://www.forbes.com/forbes/welcome/?$document
+outlook.live.com##DIV[class="_23fxOotSm5HPNB1U_ZVw4i"]
+! Adult Websites
+@@|https://www.pornhub.com/view_video.php?$document
+! Torrents-P2P Download Sites
+topblockchainsolutions.nl^$document
+moatads.com^$document
+velocecdn.com^$document
+superfastcdn.com^$document
+yts.mx/atag181.js
+moatframe.js
+yts.mx/popup
+igg-games.com##DIV[id="idModal"][class="modal-content"]
+dl.pcgamestorrents.com##DIV[id="cMl"]
+igg-games.com##DIV[id="AZP"]
+igg-games.com##DIV[id="cyc"]
+@@||eztv.io/$document
