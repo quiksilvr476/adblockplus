@@ -45,3 +45,4 @@ dl.pcgamestorrents.com##DIV[id="cMl"]
 igg-games.com##DIV[id="AZP"]
 igg-games.com##DIV[id="cyc"]
 @@||eztv.io/$document
+@@||businessinsider.com^$elemhide
